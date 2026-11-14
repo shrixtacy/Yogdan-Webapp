@@ -1,0 +1,19 @@
+{
+  "name": "Yogdan — Connecting Donors, Saving Lives",
+  "short_name": "Yogdan",
+  "description": "Connect with blood donors, hospitals and community support.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F8",
+  "theme_color": "#FFF9F8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
